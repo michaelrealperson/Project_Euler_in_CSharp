@@ -5,3 +5,10 @@ D:\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojAssemblyReference.c
 D:\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csproj.CoreCompileInputs.cache
 D:\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
 D:\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
+C:\Users\Asus\Documents\GitHub\Project-Euler-in-C-\ProjectEuler\obj\Debug\ProjectEuler.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\Project-Euler-in-C-\ProjectEuler\obj\Debug\ProjectEuler.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\GitHub\Project-Euler-in-C-\ProjectEuler\obj\Debug\ProjectEuler.exe
+C:\Users\Asus\Documents\GitHub\Project-Euler-in-C-\ProjectEuler\obj\Debug\ProjectEuler.pdb
+C:\Users\Asus\Documents\GitHub\Project-Euler-in-C-\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+C:\Users\Asus\Documents\GitHub\Project-Euler-in-C-\ProjectEuler\bin\Debug\ProjectEuler.exe
+C:\Users\Asus\Documents\GitHub\Project-Euler-in-C-\ProjectEuler\bin\Debug\ProjectEuler.pdb

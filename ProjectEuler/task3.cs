@@ -23,7 +23,7 @@ namespace ProjectEuler
 
         }
 
-        static bool CheckPrimeNumber(long n)
+        static bool CheckPrimeNumber (long n)
         {
             bool isPrimeNumber = true;
             int i = 2;
@@ -39,6 +39,7 @@ namespace ProjectEuler
             }
 
             return isPrimeNumber;
+
         }
 
     }
