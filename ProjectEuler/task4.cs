@@ -7,7 +7,7 @@ namespace ProjectEuler
         static void Main(string[] args)
         {
             int max = 0;
-            int n = 100;
+            int n = 1000;
             int digits = NumberOfDigits(n);
 
             for (int i = 10; i < n; i++)
@@ -32,7 +32,7 @@ namespace ProjectEuler
             int i = 1;
 
             while (n > 9)
-            { 
+            {
                 i++;
                 n /= 10;
             }
