@@ -12,13 +12,13 @@ namespace ProjectEuler
 
             for (int i = 10; i < n; i++)
                 for (int j = i; j < n; j++)
-                    if (Palindrome(i * j) && i * j > max)
+                    if (CheckPalindrome(i * j) && i * j > max)
                         max = i * j;
 
             Console.WriteLine($"The largest product-palindrome obtained by multiplying two {digits - 1}-digit numbers is {max}.");
         }
 
-        static bool Palindrome(int n)
+        static bool CheckPalindrome(int n)
         {
             string number = Convert.ToString(n);
             char[] reverseNumber = number.ToCharArray();
