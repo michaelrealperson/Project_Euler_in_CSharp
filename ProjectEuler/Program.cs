@@ -6,16 +6,16 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            int max = 0;
+            int maxPalindrome = 0;
             int n = 1000;
             int digits = NumberOfDigits(n);
 
-            for (int i = 10; i < n; i++)
+            for (int i = n / 10; i < n; i++)
                 for (int j = i; j < n; j++)
-                    if (CheckPalindrome(i * j) && i * j > max)
-                        max = i * j;
+                    if (CheckPalindrome(i * j) && i * j > maxPalindrome)
+                        maxPalindrome = i * j;
 
-            Console.WriteLine($"The largest product-palindrome obtained by multiplying two {digits - 1}-digit numbers is {max}.");
+            Console.WriteLine($"The largest product-palindrome obtained by multiplying two {digits - 1}-digit numbers is {maxPalindrome}.");
         }
 
         static bool CheckPalindrome(int n)
